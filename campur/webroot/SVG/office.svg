@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px"
+	 viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<g>
+			<path id="company" fill="#000000" d="M149.316,89.707h28.148v31.649h18.589V14.75c0-7.361-5.969-13.327-13.325-13.327H51.243
+				c-7.356,0-13.325,5.966-13.325,13.327v270.502c0,7.355,5.969,13.324,13.325,13.324h47.304v-86.611h36.652v-72.474
+				c0-7.885,5.79-14.42,14.118-16.971V89.707z M149.316,28.075h28.148v39.979h-28.148V28.075z M85.131,252.842H56.982v-39.979
+				h28.148V252.842z M85.131,194.309H56.982v-39.977h28.148V194.309z M85.131,129.686H56.982V89.707h28.148V129.686z M85.131,68.054
+				H56.982V28.075h28.148V68.054z M132.08,194.309h-28.148v-39.977h28.148V194.309z M132.08,129.686h-28.148V89.707h28.148V129.686z
+				 M132.08,68.054h-28.148V28.075h28.148V68.054z M270.906,132.007H159.544c-6.232,0-11.283,3.348-11.283,7.484v151.622c0,4.137,5.051,7.463,11.283,7.463
+				h40.066v-48.531h32.181v48.531h39.115c6.232,0,11.283-3.326,11.283-7.463V139.491
+				C282.189,135.354,277.139,132.007,270.906,132.007z M188.239,272.945h-23.836v-22.408h23.836V272.945z M188.239,240.131h-23.836
+				v-22.408h23.836V240.131z M188.239,203.904h-23.836v-22.393h23.836V203.904z M188.239,169.365h-23.836v-22.41h23.836V169.365z
+				 M228.021,240.131h-23.836v-22.408h23.836V240.131z M228.021,203.904h-23.836v-22.393h23.836V203.904z M228.021,169.365h-23.836
+				v-22.41h23.836V169.365z M266.451,273.438h-23.836v-22.408h23.836V273.438z M266.451,240.131h-23.836v-22.408h23.836V240.131z
+				 M266.451,203.904h-23.836v-22.393h23.836V203.904z M266.451,169.365h-23.836v-22.41h23.836V169.365z"/>
+		</g>
+	</g>
+</switch>
+
+</svg>
